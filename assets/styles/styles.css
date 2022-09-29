@@ -149,6 +149,11 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: .7em;
 }
 
+#experience h2 a{
+	color: #fff;
+	margin-bottom: .7em;
+}
+
 #experience .tag-line {
 	color: white;
 	font-size: 1.4em;
@@ -161,7 +166,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #experience h3 {
 	color: #fff;
+	text-align: center;
 }
+
 
 .experience-topics p {
 	color: #ACAEB2;
@@ -174,10 +181,15 @@ h1, h2, h3, h4, h5, h6 {
 	color: #bbd2ff;
 	font-family: "Maven pro", sans-serif;
 	font-weight: 500;
+	text-align: center;
 }
 
 .medium-4 {
-    width: 100%;
+    width:30%;
+}
+
+.medium-5 {
+    width:40%;
 }
 
 /*** work ***/
@@ -201,6 +213,15 @@ h1, h2, h3, h4, h5, h6 {
 #work .work-row {
 	margin-bottom: 5.5em;
 }
+
+.resume img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 100px;
+		width: 50%;
+		border-radius: 8px;
+	  }
 
 .details h3 {
 	color: #738182;

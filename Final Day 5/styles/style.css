@@ -1,0 +1,165 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Oswald';
+}
+
+p,
+li {
+	font-family: sans-serif;
+}
+
+header {
+	background: #231f20;
+}
+
+.logo img {
+	width: 100px;
+}
+
+nav {
+	max-width: 1200px;
+	margin: 0 auto;
+	overflow: auto;
+	padding: 20px;
+}
+
+.logo {
+	float: left;
+}
+
+#navigation {
+	float: right;
+	margin-top: 18px;
+}
+
+#navigation a {
+	font-family: 'oswald';
+	color: #fff;
+	text-decoration: none;
+	padding: 20px;
+	font-size: 24px;
+}
+
+#navigation a:hover {
+	color: #d4c2a9;
+}
+
+.wrap {
+	width: 800px;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+#section-one {
+	text-align: center;
+}
+
+#section-one img {
+	width: 800px;
+	padding: 30px 0;
+}
+
+#section-one nav a {
+	font-family: 'oswald';
+	text-decoration: none;
+	color: #116a58;
+	padding: 20px;
+	font-size: 24px;
+}
+
+#section-one nav a:hover {
+	color: #d4c2a9;
+}
+
+#section-one h1 {
+	font-size: 50px;
+}
+
+#section-two {
+	background: url('../images/ComputerBackground.jpg') no-repeat;
+	padding: 50px;
+}
+
+#section-two .wrap {
+	background: rgba(0,0,0,0.7);
+	border-radius: 1%;
+	color: #ccc;
+	padding: 20px 40px;
+	width: 720px;
+}
+
+#section-two .wrap a {
+	color: #ccc;
+}
+
+#section-three {
+	padding: 30px;
+}
+
+#section-three .wrap {
+	overflow: auto;
+}
+
+#section-three .wrap #img {
+	width: 48%;
+	float: left;
+	padding-right: 4%;
+}
+
+#section-three .wrap #img img {
+	width: 100%;
+}
+
+#section-three .wrap #text {
+	width: 48%;
+	float: left;
+}
+
+#section-three h2 {
+	margin-top: 0;
+}
+
+footer {
+	background: #116a58;
+	text-align: center;
+	padding: 20px;
+	color: #fff;
+}
+
+.logo.footer {
+	float: none;
+}
+
+#about-section-two {
+	background: url('../images/GoldFoil.jpg') no-repeat;
+	padding: 30px;
+}
+
+#about-section-two .wrap {
+	overflow: auto;
+}
+
+#about-section-two .wrap #img {
+	width: 48%;
+	float: left;
+	padding-right: 4%;
+}
+
+#about-section-two .wrap #img img {
+	width: 100%;
+}
+
+#about-section-two .wrap #text {
+	width: 48%;
+	float: left;
+}
+
+#about-section-two h2 {
+	margin-top: 0;
+}
+
+
